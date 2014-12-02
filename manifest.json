@@ -16,5 +16,12 @@
 	},
 	"background": {
 		"scripts": ["background.js"]
-	}
+	},
+	"content_scripts": [
+		{
+		"run_at": "document_end",
+		"matches": ["http://*/*", "https://*/*"],
+		"js": ["jquery.min.js", "content.js"]
+		}
+	]
 }
