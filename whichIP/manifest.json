@@ -1,0 +1,24 @@
+{
+	"manifest_version": 2,
+	"name": "whichIP",
+	"version": "0.1",
+	"description": "Show IP of your web page",
+	"icons": {
+		"16": "images/whichIP16.png",
+		"48": "images/whichIP48.png",
+		"128": "images/whichIP128.png"
+	},
+	"permissions": ["tabs","http://*/*","https://*/*","webRequest"],
+	"browser_action": {
+		"default_icon": {
+				"19": "images/whichIP19.png",
+				"38": "images/whichIP38.png"
+			},
+		"default_popup": "popup.html",
+		"default_title": "whichIP"
+	},
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"options_page": "options.html"
+}
