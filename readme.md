@@ -28,6 +28,6 @@ GPLv3
 
 ###AD
 
-[Tuniu is Hiring](www.tuniu.com)
+[Tuniu is Hiring](http://tuniu.zhiye.com/)
 
 
