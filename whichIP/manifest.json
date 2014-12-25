@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "whichIP",
-	"version": "0.1",
+	"version": "0.2",
 	"description": "Show IP of your web page",
 	"icons": {
 		"16": "images/whichIP16.png",
@@ -20,5 +20,12 @@
 	"background": {
 		"scripts": ["background.js"]
 	},
-	"options_page": "options.html"
+	"options_page": "options.html",
+	"commands": {
+		"_execute_browser_action": {
+			"suggested_key": {
+				"default": "Alt+I"
+			}
+		}
+	}
 }
