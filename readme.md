@@ -18,7 +18,7 @@ OS X 10.10 Chrome V39
 
 Alt+I 激活扩展
 
-###Liscense
+###License
 
 GPLv3
 
