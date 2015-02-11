@@ -27,4 +27,8 @@ GPLv3
 
 [Tuniu is Hiring](http://tuniu.zhiye.com/)
 
+####PS
+
+感觉 staging 使用不同的域名更好
+
 
