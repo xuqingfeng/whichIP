@@ -4,31 +4,12 @@
 
 ###Motivation
 
-测试网站时不知道是 staging 还是线上环境
-
-###Test
-
-OS X 10.10 Chrome V39
+当前网站是预发布还是线上环境
 
 ###Install
 
-下载 whichIP.crx; 拖拽至 chrome about://extensions 页面.(勾选 `开发者模式`)
-
-###How
-
-Alt+I 激活扩展
+[https://chrome.google.com/webstore/detail/whichip/bfmjmhijpmolnjlpnfbfmdkkclmplkhm](https://chrome.google.com/webstore/detail/whichip/bfmjmhijpmolnjlpnfbfmdkkclmplkhm)
 
 ###License
 
 GPLv3
-
-
-###AD
-
-[Tuniu is Hiring](http://tuniu.zhiye.com/)
-
-####PS
-
-感觉 staging 使用不同的域名更好
-
-
